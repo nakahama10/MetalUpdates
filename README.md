@@ -6,7 +6,7 @@ A metal-themed news aggregator: headlines from metal publications around the wor
 
 - `scripts/fetch-news.mjs` reads the feeds in `data/sources.json`, de-duplicates, auto-tags each story (release / tour / festival / lineup / review / interview / news) and writes `data/news.json`.
 - The site (`index.html`, `css/`, `js/`) just renders `data/news.json`.
-- `.github/workflows/update-news.yml` runs the updater hourly and commits the result, so the site stays fresh with no server.
+- `.github/workflows/update-news.yml` runs the updater daily at 00:00 UTC+8 and commits the result, so the site stays fresh with no server.
 
 Only titles, a ~220 character excerpt and a thumbnail URL are stored, and every card links to the original article.
 
