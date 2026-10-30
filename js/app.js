@@ -146,5 +146,28 @@
       status.textContent = "Couldn't load the news feed. Serve this site over HTTP (not file://) and make sure data/news.json exists.";
     }
   }
+  function visitCounter() {
+    const code = (window.METAL_CONFIG || {}).goatcounter;
+    if (!/^[a-z0-9-]+$/i.test(code || "")) return;
+    const host = `https://${code}.goatcounter.com`;
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://gc.zgo.at/count.js";
+    s.dataset.goatcounter = `${host}/count`;
+    document.head.append(s);
+    // Give the hit a moment to register so the total includes this visit.
+    setTimeout(() => {
+      fetch(`${host}/counter/TOTAL.json`)
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => {
+          const n = parseInt(String(d.count).replace(/\D/g, ""), 10);
+          if (Number.isNaN(n)) return;
+          $("visit-count").textContent = String(n).padStart(6, "0");
+          $("visits").hidden = false;
+        })
+        .catch(() => {});
+    }, 1500);
+  }
+  visitCounter();
   init();
 })();

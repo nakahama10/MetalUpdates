@@ -56,6 +56,11 @@ a { color: inherit; }
   clip-path: polygon(0 100%, 0 70%, 2% 20%, 4% 75%, 6% 30%, 8% 80%, 10% 10%, 12% 70%, 14% 35%, 16% 85%, 18% 25%, 20% 75%, 22% 15%, 24% 80%, 26% 30%, 28% 70%, 30% 5%, 32% 78%, 34% 30%, 36% 82%, 38% 20%, 40% 72%, 42% 12%, 44% 80%, 46% 35%, 48% 75%, 50% 8%, 52% 78%, 54% 28%, 56% 82%, 58% 18%, 60% 72%, 62% 32%, 64% 80%, 66% 10%, 68% 76%, 70% 26%, 72% 82%, 74% 15%, 76% 70%, 78% 34%, 80% 80%, 82% 6%, 84% 76%, 86% 28%, 88% 82%, 90% 20%, 92% 72%, 94% 30%, 96% 80%, 98% 12%, 100% 70%, 100% 100%); }
 .spikes-up { top: -1px; bottom: auto; transform: scaleY(-1); background: var(--panel); }
 
+/* ---------- visit counter ---------- */
+.visits { position: absolute; top: -34px; right: 0; margin: 0; padding: 4px 12px; background: rgba(0,0,0,.55); border: 1px solid var(--blood-dark); font: 600 13px var(--head); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); clip-path: polygon(8px 0, 100% 0, 100% 100%, 0 100%, 0 8px); }
+.visits[hidden] { display: none; }
+.visits b { color: var(--ember); font-weight: 700; letter-spacing: .2em; text-shadow: 0 0 8px rgba(255,106,26,.6); }
+
 /* ---------- ticker ---------- */
 .ticker { position: relative; display: flex; align-items: stretch; background: var(--blood-dark); border-block: 1px solid #000; overflow: hidden; }
 .ticker-label { position: relative; z-index: 2; box-shadow: 8px 0 12px -4px rgba(0,0,0,.6); flex: none; padding: 8px 16px; background: var(--blood); font: 700 14px var(--head); letter-spacing: .2em; text-transform: uppercase; color: #fff; }
@@ -126,6 +131,7 @@ a { color: inherit; }
   .featured .body { padding: 18px; }
   .row { grid-template-columns: 1fr; }
   .kicker { letter-spacing: .3em; }
+  .visits { position: static; display: inline-block; margin-bottom: 14px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .flames, .ticker-track { animation: none; }
