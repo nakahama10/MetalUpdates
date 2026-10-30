@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Metal Updates — Heavy Metal News From Around the World</title>
+<meta name="description" content="Latest heavy metal news from around the world: new albums, tours, festivals, lineup changes and reviews, gathered from the best metal publications.">
+<meta name="theme-color" content="#0a0505">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0505'/%3E%3Cpath d='M16 2l3 11 11 3-11 3-3 11-3-11L2 16l11-3z' fill='%23d4141c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Barlow:wght@400;500;600&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#news">Skip to news</a>
+
+<header class="masthead">
+  <div class="flames" aria-hidden="true"></div>
+  <div class="wrap masthead-inner">
+    <p class="kicker">Louder · Faster · Heavier</p>
+    <h1 class="logo"><span>Metal</span> <span class="logo-red">Updates</span></h1>
+    <p class="tagline">Every headline from the global metal underground, in one pit.</p>
+    <p class="status" id="status" aria-live="polite">Loading the carnage…</p>
+  </div>
+  <div class="spikes" aria-hidden="true"></div>
+</header>
+
+<nav class="ticker" aria-label="Latest headlines">
+  <span class="ticker-label">Breaking</span>
+  <div class="ticker-track" id="ticker"></div>
+</nav>
+
+<main class="wrap" id="news">
+  <section class="controls" aria-label="Filters">
+    <div class="regions" role="tablist" aria-label="Region" id="regions"></div>
+    <div class="row">
+      <label class="search"><span class="sr">Search headlines</span>
+        <input type="search" id="q" placeholder="Search bands, albums, tours…" autocomplete="off">
+      </label>
+      <label class="select"><span class="sr">Source</span>
+        <select id="source"><option value="">All sources</option></select>
+      </label>
+    </div>
+    <div class="chips" id="cats" aria-label="Category"></div>
+  </section>
+
+  <section id="featured" class="featured" aria-label="Top story"></section>
+  <p class="count" id="count"></p>
+  <section id="grid" class="grid" aria-label="Latest news"></section>
+  <div class="more"><button id="more" class="btn" hidden>Unleash more</button></div>
+</main>
+
+<footer class="footer">
+  <div class="spikes spikes-up" aria-hidden="true"></div>
+  <div class="wrap">
+    <p class="logo-small">Metal Updates</p>
+    <p>Headlines and short excerpts belong to their publishers. Every card links to the original story — go read it and support the scene.</p>
+    <p id="sources" class="sources"></p>
+    <p class="fine">\m/ Keep it heavy.</p>
+  </div>
+</footer>
+<script src="js/app.js"></script>
+</body>
+</html>

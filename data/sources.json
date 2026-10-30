@@ -1,0 +1,17 @@
+{
+  "_note": "Edit freely. region is one of: americas, europe, asia, oceania, global. Feed URLs can change; the updater skips any feed that fails and reports it.",
+  "sources": [
+    { "id": "blabbermouth", "name": "Blabbermouth", "region": "americas", "feed": "https://www.blabbermouth.net/feed", "site": "https://www.blabbermouth.net" },
+    { "id": "metalinjection", "name": "Metal Injection", "region": "americas", "feed": "https://metalinjection.net/feed", "site": "https://metalinjection.net" },
+    { "id": "metalsucks", "name": "MetalSucks", "region": "americas", "feed": "https://www.metalsucks.net/feed/", "site": "https://www.metalsucks.net" },
+    { "id": "angrymetalguy", "name": "Angry Metal Guy", "region": "americas", "feed": "https://www.angrymetalguy.com/feed/", "site": "https://www.angrymetalguy.com" },
+    { "id": "invisibleoranges", "name": "Invisible Oranges", "region": "americas", "feed": "https://www.invisibleoranges.com/feed/", "site": "https://www.invisibleoranges.com" },
+    { "id": "kerrang", "name": "Kerrang!", "region": "europe", "feed": "https://www.kerrang.com/feed", "site": "https://www.kerrang.com" },
+    { "id": "loudersound", "name": "Metal Hammer", "region": "europe", "feed": "https://www.loudersound.com/feeds/tag/metal-hammer", "site": "https://www.loudersound.com" },
+    { "id": "metalstorm", "name": "Metal Storm", "region": "europe", "feed": "https://metalstorm.net/rss/news.xml", "site": "https://metalstorm.net" },
+    { "id": "metalde", "name": "Metal.de", "region": "europe", "feed": "https://www.metal.de/feed/", "site": "https://www.metal.de" },
+    { "id": "metalexpress", "name": "Metal Express Radio", "region": "europe", "feed": "https://www.metalexpressradio.com/feed/", "site": "https://www.metalexpressradio.com" },
+    { "id": "metalwani", "name": "Metal Wani", "region": "asia", "feed": "https://www.metalwani.com/feed/", "site": "https://www.metalwani.com" },
+    { "id": "ravenousmetal", "name": "Ravenous Metal (AU)", "region": "oceania", "feed": "https://www.ravenousmetal.com/feed/", "site": "https://www.ravenousmetal.com" }
+  ]
+}
