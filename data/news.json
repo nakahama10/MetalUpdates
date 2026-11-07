@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:45:44.371Z",
+ "updated": "2026-11-07T16:30:46.940Z",
  "sources": [
   {
    "id": "blabbermouth",
@@ -88,7 +88,367 @@
  ],
  "items": [
   {
-   "id": "metalde-0-1793981434000",
+   "id": "metalde-0-1794066800000",
+   "title": "[Galerie] Kamelot – Kamfest 2026",
+   "url": "https://www.metal.de/bilder/kamelot-kamfest-2026-2-640866/",
+   "date": "2026-11-07T15:53:20.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "news",
+   "excerpt": "Der Beitrag Kamelot – Kamfest 2026 erschien zuerst auf metal.de .",
+   "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-kamelot-022-1-450x300.jpg"
+  },
+  {
+   "id": "metalde-1-1794066778000",
+   "title": "[Galerie] Blackbriar – Kamfest 2026",
+   "url": "https://www.metal.de/bilder/blackbriar-kamfest-2026-640822/",
+   "date": "2026-11-07T15:52:58.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "news",
+   "excerpt": "Der Beitrag Blackbriar – Kamfest 2026 erschien zuerst auf metal.de .",
+   "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-blackbriar-001-450x300.jpg"
+  },
+  {
+   "id": "metalde-2-1794066689000",
+   "title": "[Galerie] Exit Eden – Kamfest 2026",
+   "url": "https://www.metal.de/bilder/exit-eden-kamfest-2026-640787/",
+   "date": "2026-11-07T15:51:29.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "news",
+   "excerpt": "Der Beitrag Exit Eden – Kamfest 2026 erschien zuerst auf metal.de .",
+   "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-exit-eden-022-450x300.jpg"
+  },
+  {
+   "id": "metalde-3-1794066657000",
+   "title": "[Galerie] Temperance – Kamfest 2026",
+   "url": "https://www.metal.de/bilder/temperance-kamfest-2026-640752/",
+   "date": "2026-11-07T15:50:57.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "news",
+   "excerpt": "Der Beitrag Temperance – Kamfest 2026 erschien zuerst auf metal.de .",
+   "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-temperance-020-450x300.jpg"
+  },
+  {
+   "id": "blabbermouth-4-1794063941000",
+   "title": "See RUSH's Second Concert At Mohegan Sun Arena During 'Fifty Something' Tour",
+   "url": "https://blabbermouth.net/news/see-rushs-second-concert-at-mohegan-sun-arena-during-fifty-something-tour",
+   "date": "2026-11-07T15:05:41.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "tour",
+   "excerpt": "The Ghost Video channel on YouTube has uploaded video of RUSH's entire November 1, 2026 concert at the Mohegan Sun Arena in Uncasville, Connecticut. The second performance at Mohegan Sun as part of RUSH's \"Fifty…",
+   "image": "https://assets.blabbermouth.net/media/rushuncasvillesecondnov2026_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-5-1794063894000",
+   "title": "The 5 Best Derrick Green-Era Sepultura Songs",
+   "url": "https://metalinjection.net/lists/the-5-best-derrick-green-era-sepultura-songs",
+   "date": "2026-11-07T15:04:54.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "These five songs show how Sepultura built themselves after Max Cavalera left. The post The 5 Best Derrick Green-Era Sepultura Songs appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/07/sepultura_release_2026-06-30-291-1024x576.jpg"
+  },
+  {
+   "id": "blabbermouth-6-1794062052000",
+   "title": "DEEP PURPLE's IAN GILLAN Undergoes 'Successful Procedure': 'I Have To Rest In Order To Make A Complete Recovery'",
+   "url": "https://blabbermouth.net/news/deep-purples-ian-gillan-undergoes-successful-procedure-i-have-to-rest-in-order-to-make-a-complete-recovery",
+   "date": "2026-11-07T14:34:12.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "Less than a week after DEEP PURPLE canceled the remaining shows of its European due to vocalist Ian Gillan's illness, the 81-year-old singer revealed that he has undergone a successful \"procedure\" is currently resting…",
+   "image": "https://assets.blabbermouth.net/media/iangillannov2026live2_420x237.jpg"
+  },
+  {
+   "id": "blabbermouth-7-1794060501000",
+   "title": "ICED EARTH's JON SCHAFFER Says STU BLOCK Displayed 'Weakness Under Pressure' By 'Changing His Whole Tune' About Events Of January 6, 2021",
+   "url": "https://blabbermouth.net/news/iced-earths-jon-schaffer-says-stu-block-displayed-weakness-under-pressure-by-changing-his-whole-tune-about-events-of-january-6-2021",
+   "date": "2026-11-07T14:08:21.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "lineup",
+   "excerpt": "In a new interview with The Gallery metal web magazine, ICED EARTH guitarist Jon Schaffer addressed a possible return of his DEMONS & WIZARDS project, in which he was joined by BLIND GUARDIAN frontman Hansi Kürsch.…",
+   "image": "https://assets.blabbermouth.net/media/jonschafferstublocknov2026_420x237.jpg"
+  },
+  {
+   "id": "angrymetalguy-8-1794059435000",
+   "title": "Record(s) o’ the Month – August 2026",
+   "url": "https://www.angrymetalguy.com/records-o-the-month-august-2026/",
+   "date": "2026-11-07T13:50:35.000Z",
+   "source": "angrymetalguy",
+   "sourceName": "Angry Metal Guy",
+   "region": "americas",
+   "category": "review",
+   "excerpt": "The summer days slowly slip away from us as the August sun fades in intensity and those chilly evenings and early mornings creep in. We’ve wandered way past that warm time of the year, but the best of August will not be…",
+   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/08/Triosphere_OASB_01-500x500.jpg"
+  },
+  {
+   "id": "metalstorm-9-1794058716000",
+   "title": "Horresque - Third Studio Album Due In January",
+   "url": "https://metalstorm.net/events/news_comments.php?news_id=64505",
+   "date": "2026-11-07T13:38:36.000Z",
+   "source": "metalstorm",
+   "sourceName": "Metal Storm",
+   "region": "europe",
+   "category": "news",
+   "excerpt": "On January 8th 2027, black/death metal unit <a class=\"ms-link\" href=\"https://metalstorm.net/bands/band.php?band_id=11408\" data-image-url=\"/images/bands/11408.jpg\" data-heading=\"Horresque\" data-subheading-1=\"invisible\"…",
+   "image": ""
+  },
+  {
+   "id": "blabbermouth-10-1794057182000",
+   "title": "VAN WILLIAMS On NEVERMORE's Return To Live Stage: 'It's Been Nothing But Goosebumps Every Day'",
+   "url": "https://blabbermouth.net/news/van-williams-on-nevermores-return-to-live-stage-its-been-nothing-but-goosebumps-every-day",
+   "date": "2026-11-07T13:13:02.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "lineup",
+   "excerpt": "In an interview with Jorge Botas of Portugal's Metal Global, guitarist Jeff Loomis and drummer Van Williams spoke about the new lineup of NEVERMORE, which made its live debut on April 1, 2026 at IF Performance Hall…",
+   "image": "https://assets.blabbermouth.net/media/nevermoresept2026press_420x237.jpg"
+  },
+  {
+   "id": "metalde-11-1794056124000",
+   "title": "[Review] Twin Temple – Doomed Lovers",
+   "url": "https://www.metal.de/reviews/twin-temple-doomed-lovers-640917/",
+   "date": "2026-11-07T12:55:24.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "tour",
+   "excerpt": "Nicht wenigen dürfte die 2022er Tour von GHOST noch gut in Erinnerung sein. Allerdings nicht nur, weil im Frühjahr 2022 endlich wieder so etwas wie Tour-Normalität nach der Pandemie einkehrte, oder weil die riesige…",
+   "image": "https://www.metal.de/images/2026/11/07/cover-Twin-Temple-Doomed-Lovers-450x300.jpg"
+  },
+  {
+   "id": "metalde-12-1794052812000",
+   "title": "[Review] Crucivore – Desecration",
+   "url": "https://www.metal.de/reviews/crucivore-desecration-638531/",
+   "date": "2026-11-07T12:00:12.000Z",
+   "source": "metalde",
+   "sourceName": "Metal.de",
+   "region": "europe",
+   "category": "review",
+   "excerpt": "Ricardo Proença und seine Mitstreiter bei CRUCIVORE sind allesamt keine unbeschriebenen Blätter im portugiesischen brutalen Death-Metal-Umfeld. Die wohl bekannteste Visitenkarte gab der 39-Jährige wohl bei ANALEPSY ab,…",
+   "image": "https://www.metal.de/images/2026/10/14/Crucivore-Cover-450x300.jpg"
+  },
+  {
+   "id": "metalexpress-13-1794002707000",
+   "title": "DAILY ALBUM PREMIERE Week 46, 2026",
+   "url": "https://www.metalexpressradio.com/2026/11/06/daily-album-premiere-week-46-2026/",
+   "date": "2026-11-06T22:05:07.000Z",
+   "source": "metalexpress",
+   "sourceName": "Metal Express Radio",
+   "region": "europe",
+   "category": "release",
+   "excerpt": "This week's show features new music from Storm Force, Eternity's End, Defender & Echoid. The Daily Album Premiere Show is where you can hear the finest Metal and Hard Rock releases just now hitting the streets! ...READ…",
+   "image": ""
+  },
+  {
+   "id": "blabbermouth-14-1794001896000",
+   "title": "GENE HOGLAN Says New DARK ANGEL Music Will Arrive 'Before The End Of The Year': 'I'm Really Excited'",
+   "url": "https://blabbermouth.net/news/gene-hoglan-says-new-dark-angel-music-will-arrive-before-the-end-of-the-year-im-really-excited",
+   "date": "2026-11-06T21:51:36.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "release",
+   "excerpt": "In a new interview with \"Reckless\" Rexx Ruger of Pod Scum, DARK ANGEL drummer Gene Hoglan was asked when fans can expect to hear new music from the band as a follow-up to DARK ANGEL's first new album in 34 years,…",
+   "image": "https://assets.blabbermouth.net/media/genehoglannov2026_420x237.jpg"
+  },
+  {
+   "id": "blabbermouth-15-1793999620000",
+   "title": "ARMORED SAINT's JOHN BUSH Has Made An Album With His ELECTRIC SPAGHETTI Project: 'At One Point It's Coming Out'",
+   "url": "https://blabbermouth.net/news/armored-saints-john-bush-has-made-an-album-with-his-electric-spaghetti-project-at-one-point-its-coming-out",
+   "date": "2026-11-06T21:13:40.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "interview",
+   "excerpt": "In a new interview with RadioRadioX.com contributor Justin Smulison, former ANTHRAX and current ARMORED SAINT singer John Bush talked about his long-running project called ELECTRIC SPAGHETTI in which he is joined by…",
+   "image": "https://assets.blabbermouth.net/media/johnbushjune2026vid_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-16-1793998200000",
+   "title": "Burn Eternal, Carnifex, We Came As Romans & More Added To Metal Injection's Top Tracks of the Week",
+   "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/burn-eternal-carnifex-we-came-as-romans-more-added-to-metal-injections-top-tracks-of-the-week",
+   "date": "2026-11-06T20:50:00.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "It is the week of the collab, apparently. The post Burn Eternal, Carnifex, We Came As Romans & More Added To Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/TOTW-NOVEMBER-6-1024x576.png"
+  },
+  {
+   "id": "angrymetalguy-17-1793997414000",
+   "title": "Besotten – Eye of the Monolithicrypt Review",
+   "url": "https://www.angrymetalguy.com/besotten-eye-of-the-monolithicrypt-review/",
+   "date": "2026-11-06T20:36:54.000Z",
+   "source": "angrymetalguy",
+   "sourceName": "Angry Metal Guy",
+   "region": "americas",
+   "category": "review",
+   "excerpt": "From the swampy, fetid lowlands of Portland, Oregon comes the nasty death-doom tidings of Besotten on their debut nutsmasher, Eye of the Monolithicrypt . Taking inspiration from all the biggest deviants on the grimy end…",
+   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Besotten_Eye-of-the-Monolithicrypt-01-350x350.jpg"
+  },
+  {
+   "id": "blabbermouth-18-1793995429000",
+   "title": "JOHN 5: 'I Just Want To Be Able To Represent MICK MARS And MÖTLEY CRÜE As Best As I Can'",
+   "url": "https://blabbermouth.net/news/john-5-i-just-want-to-be-able-to-represent-mick-mars-and-motley-crue-as-best-as-i-can",
+   "date": "2026-11-06T20:03:49.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "interview",
+   "excerpt": "In a new interview with Mexico's Summa Inferno, John 5 spoke about his role as the guitarist in MÖTLEY CRÜE, having replaced the band's founding guitarist Mick Mars in late 2022. He said (as transcribed by…",
+   "image": "https://assets.blabbermouth.net/media/john5nov2026live_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-19-1793993180000",
+   "title": "Watch: Celine Dion Plays Air Bass to Metallica at the Sphere",
+   "url": "https://metalinjection.net/news/watch-celine-dion-plays-air-bass-to-metallica-at-the-sphere",
+   "date": "2026-11-06T19:26:20.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "Let her up there! The post Watch: Celine Dion Plays Air Bass to Metallica at the Sphere appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-79-1024x576.png"
+  },
+  {
+   "id": "blabbermouth-20-1793992833000",
+   "title": "JOE SATRIANI On EDDIE VAN HALEN: 'He Did Things The Way Nobody Else Did Them, And To Him It Came Naturally'",
+   "url": "https://blabbermouth.net/news/joe-satriani-on-eddie-van-halen-he-did-things-the-way-nobody-else-did-them-and-to-him-it-came-naturally",
+   "date": "2026-11-06T19:20:33.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "interview",
+   "excerpt": "In a new interview with Talk Is Jericho, the podcast hosted by FOZZY frontman and wrestling superstar Chris Jericho, Joe Satriani once again reflected on being approached to reproduce Eddie Van Halen's guitar parts as…",
+   "image": "https://assets.blabbermouth.net/media/joesatrianinov2026_420x237.jpg"
+  },
+  {
+   "id": "blabbermouth-21-1793989768000",
+   "title": "KING'S X Guitarist TY TABOR Opens Up About His Traumatic Brain Injury: 'It Has Taken Years To Get Back' To Being Creative",
+   "url": "https://blabbermouth.net/news/kings-x-guitarist-ty-tabor-opens-up-about-his-traumatic-brain-injury-it-has-taken-years-to-get-back-to-being-creative",
+   "date": "2026-11-06T18:29:28.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "interview",
+   "excerpt": "In a new interview with Ed Hackimer of This Day In Metal, Ty Tabor, the American guitarist, songwriter and co-vocalist best known as a member of KING'S X, was asked if he has been working on any solo music as of late.…",
+   "image": "https://assets.blabbermouth.net/media/tytabornov2026_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-22-1793988865000",
+   "title": "Sharon Osbourne Says Ozzfest Is Mostly Booked",
+   "url": "https://metalinjection.net/news/sharon-osbourne-says-ozzfest-is-mostly-booked",
+   "date": "2026-11-06T18:14:25.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "festival",
+   "excerpt": "She didn't share anything about the lineup, though. The post Sharon Osbourne Says Ozzfest Is Mostly Booked appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2023/10/Sharon-Osbourne-1024x576.png"
+  },
+  {
+   "id": "blabbermouth-23-1793987867000",
+   "title": "MURDERDOLLS Announce First Concert In Nearly A Decade",
+   "url": "https://blabbermouth.net/news/murderdolls-announce-first-concert-in-nearly-a-decade",
+   "date": "2026-11-06T17:57:47.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "tour",
+   "excerpt": "MURDERDOLLS have announced their first show in nine years. Earlier today (Friday, November 6), MURDERDOLLS vocalist Wednesday 13 and the family of band's late guitarist — and former SLIPKNOT drummer — Joey Jordison…",
+   "image": "https://assets.blabbermouth.net/media/wednesday13nov2026live_420x237.jpg"
+  },
+  {
+   "id": "blabbermouth-24-1793985725000",
+   "title": "CORROSION OF CONFORMITY Shares 'Baad Man' And 'Lose Yourself', Recorded Live At Sweetwater Studios",
+   "url": "https://blabbermouth.net/news/corrosion-of-conformity-shares-baad-man-and-lose-yourself-recorded-live-at-sweetwater-studios",
+   "date": "2026-11-06T17:22:05.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "tour",
+   "excerpt": "American heavy metal icons CORROSION OF CONFORMITY have shared a video for \"Baad Man\" and \"Lose Yourself\", recorded live at the legendary Sweetwater Studios during the band’s North American tour earlier this year.…",
+   "image": "https://assets.blabbermouth.net/media/corrosionofconformityjuly2026_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-25-1793985091000",
+   "title": "Watch: Carnifex Drops Video For \"The Process Of Pain\" Featuring Chaney Crabb of Entheos",
+   "url": "https://metalinjection.net/new-music/watch-carnifex-drops-video-for-the-process-of-pain-featuring-chaney-crabb-of-entheos",
+   "date": "2026-11-06T17:11:31.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "Grab an exclusive copy of 'More Than Misery' from the Metal Injection store. The post Watch: Carnifex Drops Video For \"The Process Of Pain\" Featuring Chaney Crabb of Entheos appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/08/Metal-Injection-Header-3-1024x576.png"
+  },
+  {
+   "id": "angrymetalguy-26-1793984930000",
+   "title": "Eternity’s End – Titanblood Review",
+   "url": "https://www.angrymetalguy.com/eternitys-end-titanblood-review/",
+   "date": "2026-11-06T17:08:50.000Z",
+   "source": "angrymetalguy",
+   "sourceName": "Angry Metal Guy",
+   "region": "americas",
+   "category": "review",
+   "excerpt": "Germany’s Eternity’s End plays the kind of over-the-top, shred-heavy metal that squeezes three albums’ worth of notes into one. The first band I ever listened to that wielded eye-popping neoclassical theatrics with…",
+   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Eternitys-End-Titanblood-01-350x350.jpg"
+  },
+  {
+   "id": "blabbermouth-27-1793984765000",
+   "title": "HEART's ANN WILSON And TRIPSITTER Release Music Video For 'Me And Comanche' From 'Consecrated Ground' Album",
+   "url": "https://blabbermouth.net/news/hearts-ann-wilson-and-tripsitter-release-music-video-for-me-and-comanche-from-consecrated-ground-album",
+   "date": "2026-11-06T17:06:05.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "release",
+   "excerpt": "Rock icon Ann Wilson and acclaimed psych-rock outfit TRIPSITTER have released the official music video for the song \"Me And Comanche\". The track is taken from Ann Wilson & TRIPSITTER's latest album, \"Consecrated…",
+   "image": "https://assets.blabbermouth.net/media/annwilsonjune2026press_420x237.jpg"
+  },
+  {
+   "id": "metalinjection-28-1793983646000",
+   "title": "Hatebreed's 'Fatal Paradox' Is Out Now, Grab an Exclusive Vinyl From Metal Injection",
+   "url": "https://metalinjection.net/new-music/hatebreeds-fatal-paradox-is-out-now-grab-an-exclusive-vinyl-from-metal-injection",
+   "date": "2026-11-06T16:47:26.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "news",
+   "excerpt": "Hardcore Christmas has arrived in November. The post Hatebreed's 'Fatal Paradox' Is Out Now, Grab an Exclusive Vinyl From Metal Injection appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Hatebreed-2026-1024x576.jpg"
+  },
+  {
+   "id": "blabbermouth-29-1793982083000",
+   "title": "MARTY FRIEDMAN Releases New Single '2 Rebeldes (Spanish Vocal)'",
+   "url": "https://blabbermouth.net/news/marty-friedman-releases-new-single-2-rebeldes-spanish-vocal",
+   "date": "2026-11-06T16:21:23.000Z",
+   "source": "blabbermouth",
+   "sourceName": "Blabbermouth",
+   "region": "americas",
+   "category": "release",
+   "excerpt": "Former MEGADETH guitarist Marty Friedman has shared a new single, \"2 Rebeldes (Spanish Vocal)\", taken from his latest solo album \"Drama\", that was released in May 2024, via Frontiers Music Srl. Marty commented on the…",
+   "image": "https://assets.blabbermouth.net/media/martyfriedmannov2026live_420x237.jpg"
+  },
+  {
+   "id": "metalde-30-1793981434000",
    "title": "[Review] Pinhead – Beauty In Pain",
    "url": "https://www.metal.de/reviews/pinhead-beauty-in-pain-639521/",
    "date": "2026-11-06T16:10:34.000Z",
@@ -100,7 +460,7 @@
    "image": "https://www.metal.de/images/2026/04/24/1776855602.5809309483-450x300.jpg"
   },
   {
-   "id": "metalde-1-1793980820000",
+   "id": "metalde-31-1793980820000",
    "title": "[News] Trollfest lassen die „Troll Brigade“ von der Leine",
    "url": "https://www.metal.de/news/trollfest-neues-album-trollywood-angekuendigt-625691/",
    "date": "2026-11-06T16:00:20.000Z",
@@ -112,7 +472,7 @@
    "image": "https://www.metal.de/images/2023/08/27/summer-breeze-open-air-2023-trollfest-0624-tvs-450x300.jpg"
   },
   {
-   "id": "blabbermouth-2-1793979452000",
+   "id": "blabbermouth-32-1793979452000",
    "title": "FILTER's New Album 'The Antidote' Is 'Moments Away From Being Done': 'I'm Really Excited To Release It', Says RICHARD PATRICK",
    "url": "https://blabbermouth.net/news/filters-new-album-the-antidote-is-moments-away-from-being-done-im-really-excited-to-release-it-says-richard-patrick",
    "date": "2026-11-06T15:37:32.000Z",
@@ -124,7 +484,19 @@
    "image": "https://assets.blabbermouth.net/media/richardpatrickkattnov2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-3-1793977693000",
+   "id": "metalinjection-33-1793979271000",
+   "title": "Watch: WWE's Rhea Ripley Join Motionless in White On Stage",
+   "url": "https://metalinjection.net/news/watch-wwes-rhea-ripley-join-motionless-in-white-on-stage",
+   "date": "2026-11-06T15:34:31.000Z",
+   "source": "metalinjection",
+   "sourceName": "Metal Injection",
+   "region": "americas",
+   "category": "lineup",
+   "excerpt": "The WWE wrestler has shown a lot of love to metal throughout her career. The post Watch: WWE's Rhea Ripley Join Motionless in White On Stage appeared first on Metal Injection .",
+   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Rhea-Ripley-Chris-Motionless-MIW-1024x576.png"
+  },
+  {
+   "id": "blabbermouth-34-1793977693000",
    "title": "KINGSTON ROSSDALE, BUSH Frontman GAVIN ROSSDALE's Son, Releases Debut EP, 'Louise Street'",
    "url": "https://blabbermouth.net/news/kingston-rossdale-bush-frontman-gavin-rossdales-son-releases-debut-ep-louise-street",
    "date": "2026-11-06T15:08:13.000Z",
@@ -136,7 +508,7 @@
    "image": "https://assets.blabbermouth.net/media/kingstonrossdalenov2026_420x237.jpg"
   },
   {
-   "id": "metalde-4-1793977461000",
+   "id": "metalde-35-1793977461000",
    "title": "[News] Dianne – veröffentlicht „Hysteria“ mit prominenter Verstärkung",
    "url": "https://www.metal.de/news/dianne-veroeffentlicht-hysteria-mit-prominenter-verstaerkung-640846/",
    "date": "2026-11-06T15:04:21.000Z",
@@ -148,7 +520,7 @@
    "image": "https://www.metal.de/images/2026/11/06/d78b4974-6ecf-a24f-caac-e5be0d0d36df-450x300.jpg"
   },
   {
-   "id": "blabbermouth-5-1793976366000",
+   "id": "blabbermouth-36-1793976366000",
    "title": "SLAYER Announces 'Reign In Blood' 40th-Anniversary Pop-Up Shop Ahead Of Sold-Out Los Angeles Shows",
    "url": "https://blabbermouth.net/news/slayer-announces-reign-in-blood-40th-anniversary-pop-up-shop-ahead-of-sold-out-los-angeles-shows",
    "date": "2026-11-06T14:46:06.000Z",
@@ -160,7 +532,7 @@
    "image": "https://assets.blabbermouth.net/media/slayerreignpopupnov2026_420x237.jpg"
   },
   {
-   "id": "metalde-6-1793975861000",
+   "id": "metalde-37-1793975861000",
    "title": "[News] Hatebreed – neues Video zu „Decisions Become Destinies“",
    "url": "https://www.metal.de/news/hatebreed-neues-video-zu-decisions-become-destinies-640783/",
    "date": "2026-11-06T14:37:41.000Z",
@@ -172,7 +544,7 @@
    "image": "https://www.metal.de/images/2025/11/30/hatebreed-2025-geiselwind-music-hall-031-450x300.jpg"
   },
   {
-   "id": "blabbermouth-7-1793975718000",
+   "id": "blabbermouth-38-1793975718000",
    "title": "THE FUNERAL PORTRAIT Releases Lyric Video For New Song 'My Future Prediction'",
    "url": "https://blabbermouth.net/news/the-funeral-portrait-releases-lyric-video-for-new-song-my-future-prediction",
    "date": "2026-11-06T14:35:18.000Z",
@@ -184,19 +556,7 @@
    "image": "https://assets.blabbermouth.net/media/thefuneralportraitnov2026_420x237.jpg"
   },
   {
-   "id": "metalexpress-8-1793975170000",
-   "title": "L.A. Guns (Live)",
-   "url": "https://www.metalexpressradio.com/2026/11/06/l-a-guns-live-2/",
-   "date": "2026-11-06T14:26:10.000Z",
-   "source": "metalexpress",
-   "sourceName": "Metal Express Radio",
-   "region": "europe",
-   "category": "news",
-   "excerpt": "L.A. Guns Live at Digital, Newcastle 5th November 2026 It`s been 8 long years since Californian Rockers L.A. Guns last graced the stage in Newcastle when they played at the now sadly defunct Riverside on ...READ MORE…",
-   "image": ""
-  },
-  {
-   "id": "invisibleoranges-9-1793974620000",
+   "id": "invisibleoranges-39-1793974620000",
    "title": "October 2026 Release Round-Up",
    "url": "https://www.invisibleoranges.com/october-2026-release-round-up",
    "date": "2026-11-06T14:17:00.000Z",
@@ -208,7 +568,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/11/04/Dungeon-Serpent-Lamentations-of-the-Shadowkingdoms.jpg"
   },
   {
-   "id": "blabbermouth-10-1793973787000",
+   "id": "blabbermouth-40-1793973787000",
    "title": "FRANK FERRER Praises STEVEN ADLER And MATT SORUM, Explains His Drumming Approach During His Time With GUNS N' ROSES",
    "url": "https://blabbermouth.net/news/frank-ferrer-praises-steven-adler-and-matt-sorum-explains-his-drumming-approach-during-his-time-with-guns-n-roses",
    "date": "2026-11-06T14:03:07.000Z",
@@ -220,7 +580,7 @@
    "image": "https://assets.blabbermouth.net/media/frankferrernov2026_420x237.jpg"
   },
   {
-   "id": "metalinjection-11-1793973591000",
+   "id": "metalinjection-41-1793973591000",
    "title": "The Weekly Injection: New Releases From Hatebreed, Cult of Luna, and More Out This Week — 11.6",
    "url": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-hatebreed-cult-of-luna-and-more-out-this-week-11-6",
    "date": "2026-11-06T13:59:51.000Z",
@@ -232,19 +592,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/08/the-weekly-injection-photo-1024x576.jpg"
   },
   {
-   "id": "metalde-12-1793972485000",
-   "title": "[Galerie] Kamelot – Kamfest 2026",
-   "url": "https://www.metal.de/bilder/kamelot-kamfest-2026-640708/",
-   "date": "2026-11-06T13:41:25.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "news",
-   "excerpt": "Der Beitrag Kamelot – Kamfest 2026 erschien zuerst auf metal.de .",
-   "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-kamelot-031-450x300.jpg"
-  },
-  {
-   "id": "metalde-13-1793972473000",
+   "id": "metalde-42-1793972473000",
    "title": "[Galerie] Xandria – Kamfest 2026",
    "url": "https://www.metal.de/bilder/xandria-kamfest-2026-640678/",
    "date": "2026-11-06T13:41:13.000Z",
@@ -256,7 +604,7 @@
    "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-xandria-028-450x300.jpg"
   },
   {
-   "id": "metalde-14-1793972461000",
+   "id": "metalde-43-1793972461000",
    "title": "[Galerie] Leaves‘ Eyes – Kamfest 2026",
    "url": "https://www.metal.de/bilder/leaves-eyes-kamfest-2026-640653/",
    "date": "2026-11-06T13:41:01.000Z",
@@ -268,7 +616,7 @@
    "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-leaves-eyes-005-450x300.jpg"
   },
   {
-   "id": "metalde-15-1793972449000",
+   "id": "metalde-44-1793972449000",
    "title": "[Galerie] Elegy – Kamfest 2026",
    "url": "https://www.metal.de/bilder/elegy-kamfest-2026-640626/",
    "date": "2026-11-06T13:40:49.000Z",
@@ -280,7 +628,7 @@
    "image": "https://www.metal.de/images/2026/11/06/kamfest-2026-elegy-004-450x300.jpg"
   },
   {
-   "id": "metalde-16-1793970989000",
+   "id": "metalde-45-1793970989000",
    "title": "[Review] Stygian Steel – Black Lotus Veil",
    "url": "https://www.metal.de/reviews/stygian-steel-black-lotus-veil-640595/",
    "date": "2026-11-06T13:16:29.000Z",
@@ -292,7 +640,7 @@
    "image": "https://www.metal.de/images/2026/11/06/stygiansteel-cover-450x300.jpg"
   },
   {
-   "id": "blabbermouth-17-1793970983000",
+   "id": "blabbermouth-46-1793970983000",
    "title": "LITTLE ANGELS Share Sneak Peek At Documentary On Making Of Legendary U.K. Hard Rock Band's First New Music In 32 Years",
    "url": "https://blabbermouth.net/news/little-angels-share-sneak-peek-at-documentary-on-making-of-legendary-u-k-hard-rock-bands-first-new-music-in-32-years",
    "date": "2026-11-06T13:16:23.000Z",
@@ -304,7 +652,7 @@
    "image": "https://assets.blabbermouth.net/media/littleangelssept2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-18-1793970014000",
+   "id": "blabbermouth-47-1793970014000",
    "title": "ZEBRA Shares Music Video For 'All Your Love' From Upcoming 'Zebra V' Album",
    "url": "https://blabbermouth.net/news/zebra-shares-music-video-for-all-your-love-from-upcoming-zebra-v-album",
    "date": "2026-11-06T13:00:14.000Z",
@@ -316,7 +664,7 @@
    "image": "https://assets.blabbermouth.net/media/zebraallyourvidnov2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-19-1793968590000",
+   "id": "blabbermouth-48-1793968590000",
    "title": "SABATON Announces Deluxe Edition Of 'Legends' Album, Shares Lyric Video For 'Berserker'",
    "url": "https://blabbermouth.net/news/sabaton-announces-deluxe-edition-of-legends-album-shares-lyric-video-for-berserker",
    "date": "2026-11-06T12:36:30.000Z",
@@ -328,19 +676,7 @@
    "image": "https://assets.blabbermouth.net/media/sabatonbandnov2026_420x237.jpg"
   },
   {
-   "id": "metalstorm-20-1793968407000",
-   "title": "Death Angel - Reveal 'The Never Was' Track",
-   "url": "https://metalstorm.net/events/news_comments.php?news_id=64494",
-   "date": "2026-11-06T12:33:27.000Z",
-   "source": "metalstorm",
-   "sourceName": "Metal Storm",
-   "region": "europe",
-   "category": "release",
-   "excerpt": "Bay Area thrash metal veterans <a class=\"ms-link\" href=\"https://metalstorm.net/bands/band.php?band_id=289\" data-image-url=\"/images/bands/289.jpg\" data-heading=\"Death Angel\" data-subheading-1=\"Rank: 165\"…",
-   "image": ""
-  },
-  {
-   "id": "metalde-21-1793968077000",
+   "id": "metalde-49-1793968077000",
    "title": "[Review] Kalandra – The Other Side",
    "url": "https://www.metal.de/reviews/kalandra-the-other-side-636628/",
    "date": "2026-11-06T12:27:57.000Z",
@@ -352,7 +688,7 @@
    "image": "https://www.metal.de/images/2026/08/28/Kalandra-The-Other-Side-Cover-450x300.jpg"
   },
   {
-   "id": "blabbermouth-22-1793967297000",
+   "id": "blabbermouth-50-1793967297000",
    "title": "THROWN INTO EXILE Releases New Single 'Remorse' Featuring ARCH ENEMY's MICHAEL AMOTT",
    "url": "https://blabbermouth.net/news/thrown-into-exile-releases-new-single-remorse-featuring-arch-enemys-michael-amott",
    "date": "2026-11-06T12:14:57.000Z",
@@ -364,7 +700,19 @@
    "image": "https://assets.blabbermouth.net/media/thrownintoexilenov2026_420x237.jpg"
   },
   {
-   "id": "metalde-23-1793962810000",
+   "id": "angrymetalguy-51-1793967009000",
+   "title": "Sentries – Disciples of Void & Fire Review",
+   "url": "https://www.angrymetalguy.com/sentries-disciples-of-void-fire-review/",
+   "date": "2026-11-06T12:10:09.000Z",
+   "source": "angrymetalguy",
+   "sourceName": "Angry Metal Guy",
+   "region": "americas",
+   "category": "review",
+   "excerpt": "Icelandic black metal may be a trendy style in the underground and perhaps the few layers interspersed between it and the black metal “mainstream,” but it’s got good reason to be. Deftly balancing sweeping melodies with…",
+   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Sentries_DoVaF_01-500x500.jpg"
+  },
+  {
+   "id": "metalde-52-1793962810000",
    "title": "[News] Grave Digger – Zweite Single aus neuem Album „Faces Of Pain“",
    "url": "https://www.metal.de/news/grave-digger-neues-studioalbum-faces-of-pain-635650/",
    "date": "2026-11-06T11:00:10.000Z",
@@ -376,7 +724,7 @@
    "image": "https://www.metal.de/images/2025/12/14/knock-out-festival-2025-grave-digger-STE_7486-450x300.jpg"
   },
   {
-   "id": "metalde-24-1793959200000",
+   "id": "metalde-53-1793959200000",
    "title": "[Tour] Elvana – Elvis fronted Nirvana – Europa Tour 2027",
    "url": "https://www.metal.de/touren/elvana-elvis-fronted-nirvana-europa-tour-2027-640618/",
    "date": "2026-11-06T10:00:00.000Z",
@@ -388,7 +736,7 @@
    "image": "https://www.metal.de/images/2026/11/07/Elvana-Elvis-fronted-Nirvana-Europa-Tour-2027-Tourpraesi-450x300.jpg"
   },
   {
-   "id": "metalde-25-1793953152000",
+   "id": "metalde-54-1793953152000",
    "title": "[News] Kreator – „Coma Of Souls“ wird 36",
    "url": "https://www.metal.de/news/kreator-coma-of-souls-wird-36-640592/",
    "date": "2026-11-06T08:19:12.000Z",
@@ -400,7 +748,7 @@
    "image": "https://www.metal.de/images/2025/09/21/Kreator-Coma-Of-Souls-450x300.jpeg"
   },
   {
-   "id": "metalde-26-1793952872000",
+   "id": "metalde-55-1793952872000",
    "title": "[News] Death Angel – neuer Song „The Never Was“",
    "url": "https://www.metal.de/news/death-angel-neuer-song-the-never-was-640598/",
    "date": "2026-11-06T08:14:32.000Z",
@@ -412,7 +760,7 @@
    "image": "https://www.metal.de/images/2026/11/06/Death-Angel-2026-450x300.jpg"
   },
   {
-   "id": "metalde-27-1793952450000",
+   "id": "metalde-56-1793952450000",
    "title": "[Review] Cult Of Luna – In The Shadow Of Your Shadow",
    "url": "https://www.metal.de/reviews/cult-of-luna-in-the-shadow-of-your-shadow-640597/",
    "date": "2026-11-06T08:07:30.000Z",
@@ -424,7 +772,7 @@
    "image": "https://www.metal.de/images/2026/11/06/Album-Cover-3000x3000px-450x300.png"
   },
   {
-   "id": "metalde-28-1793948357000",
+   "id": "metalde-57-1793948357000",
    "title": "[Review] Night In Gales – Bitter Harvest",
    "url": "https://www.metal.de/reviews/night-in-gales-bitter-harvest-640573/",
    "date": "2026-11-06T06:59:17.000Z",
@@ -436,7 +784,7 @@
    "image": "https://www.metal.de/images/2026/11/04/344572-450x300.jpg"
   },
   {
-   "id": "metalde-29-1793943396000",
+   "id": "metalde-58-1793943396000",
    "title": "[Special] Black Listed Friday – Die 6+6+6 der Woche",
    "url": "https://www.metal.de/specials/black-listed-friday-die-666-der-woche-49-639711/",
    "date": "2026-11-06T05:36:36.000Z",
@@ -448,7 +796,7 @@
    "image": "https://www.metal.de/images/2026/10/25/Black-Listed-Friday-Nr.-50-6.11.26-WEBSITE-header-450x300.png"
   },
   {
-   "id": "metalde-30-1793943255000",
+   "id": "metalde-59-1793943255000",
    "title": "[Review] Silvertomb – The Interpretation Of Nightmares",
    "url": "https://www.metal.de/reviews/silvertomb-the-interpretation-of-nightmares-639529/",
    "date": "2026-11-06T05:34:15.000Z",
@@ -460,7 +808,7 @@
    "image": "https://www.metal.de/images/2026/10/24/silvertomb_The_Interpretation_Of_Nightmares-450x300.jpg"
   },
   {
-   "id": "metalde-31-1793923044000",
+   "id": "metalde-60-1793923044000",
    "title": "[Review] Black Space Riders – Die 8",
    "url": "https://www.metal.de/reviews/black-space-riders-die-8-638284/",
    "date": "2026-11-05T23:57:24.000Z",
@@ -472,7 +820,7 @@
    "image": "https://www.metal.de/images/2026/10/12/Black-Space-Riders-Die-8-Cover-Artwork-450x300.jpg"
   },
   {
-   "id": "blabbermouth-32-1793916389000",
+   "id": "blabbermouth-61-1793916389000",
    "title": "HEART's ANN WILSON On How She Has Managed To Keep Her Singing Voice In Such Great Shape After Five Decades: 'I Take Care Of Myself Moderately'",
    "url": "https://blabbermouth.net/news/hearts-ann-wilson-on-how-she-has-managed-to-keep-her-singing-voice-in-such-great-shape-after-five-decades-i-take-care-of-myself-moderately",
    "date": "2026-11-05T22:06:29.000Z",
@@ -484,7 +832,7 @@
    "image": "https://assets.blabbermouth.net/media/annwilsonburrnov2026_420x237.jpg"
   },
   {
-   "id": "metalinjection-33-1793913139000",
+   "id": "metalinjection-62-1793913139000",
    "title": "Watch: Here’s That Haywire Video the NYPD Broke Up",
    "url": "https://metalinjection.net/new-music/watch-heres-that-haywire-video-the-nypd-broke-up",
    "date": "2026-11-05T21:12:19.000Z",
@@ -496,7 +844,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Haywire-Times-Square-James-Hartley-1024x576.jpg"
   },
   {
-   "id": "angrymetalguy-34-1793912880000",
+   "id": "angrymetalguy-63-1793912880000",
    "title": "After Infinity – Beyond Eternity Review",
    "url": "https://www.angrymetalguy.com/after-infintity-beyond-eternity-review/",
    "date": "2026-11-05T21:08:00.000Z",
@@ -508,7 +856,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/after-infinity-beyond-eternity-01-350x350.jpg"
   },
   {
-   "id": "blabbermouth-35-1793911747000",
+   "id": "blabbermouth-64-1793911747000",
    "title": "IRON MAIDEN Is 'Built For Touring', Says Longtime Manager ROD SMALLWOOD",
    "url": "https://blabbermouth.net/news/iron-maiden-is-built-for-touring-says-longtime-manager-rod-smallwood",
    "date": "2026-11-05T20:49:07.000Z",
@@ -520,7 +868,7 @@
    "image": "https://assets.blabbermouth.net/media/rodsmallwoodnov2026_420x237.jpg"
   },
   {
-   "id": "metalinjection-36-1793911428000",
+   "id": "metalinjection-65-1793911428000",
    "title": "Coheed and Cambria Announce 2027 Neverender Cruise With Glassjaw, Joyce Manor and More",
    "url": "https://metalinjection.net/news/coheed-and-cambria-announce-2027-neverender-cruise-with-glassjaw-joyce-manor-and-more",
    "date": "2026-11-05T20:43:48.000Z",
@@ -532,7 +880,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2024/11/Coheed-and-Cambria-by-Jimmy-Fontaine-1024x576.jpeg"
   },
   {
-   "id": "blabbermouth-37-1793909054000",
+   "id": "blabbermouth-66-1793909054000",
    "title": "KENNY HICKEY: TYPE O NEGATIVE Was Offered 'A Lot Of Money' To Play One PETER STEELE Tribute Concert",
    "url": "https://blabbermouth.net/news/kenny-hickey-type-o-negative-was-offered-a-lot-of-money-to-play-one-peter-steele-tribute-concert",
    "date": "2026-11-05T20:04:14.000Z",
@@ -544,7 +892,7 @@
    "image": "https://assets.blabbermouth.net/media/kennyhickeynov2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-38-1793906319000",
+   "id": "blabbermouth-67-1793906319000",
    "title": "ELIZE RYD: AMARANTHE's Upcoming Album Will Feature 'Back-To-The-Roots Gothenburg Metal Sound'",
    "url": "https://blabbermouth.net/news/elize-ryd-amaranthes-upcoming-album-will-feature-back-to-the-roots-gothenburg-metal-sound",
    "date": "2026-11-05T19:18:39.000Z",
@@ -556,7 +904,7 @@
    "image": "https://assets.blabbermouth.net/media/amaranthebandnov2023_420x237.jpg"
   },
   {
-   "id": "metalinjection-39-1793905963000",
+   "id": "metalinjection-68-1793905963000",
    "title": "Listen: Comeback Kid Taps Courtney LaPlante For New Single, \"Shedding Season\"",
    "url": "https://metalinjection.net/new-music/listen-comeback-kid-taps-courtney-laplante-for-new-single-shedding-season",
    "date": "2026-11-05T19:12:43.000Z",
@@ -568,7 +916,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-78-1024x576.png"
   },
   {
-   "id": "metalinjection-40-1793904317000",
+   "id": "metalinjection-69-1793904317000",
    "title": "Chuck Billy of Testament on Reliving His Cancer Experience, Opening Up Publicly [Exclusive]",
    "url": "https://metalinjection.net/video/chuck-billy-of-testament-on-reliving-his-cancer-experience-opening-up-publicly-exclusive",
    "date": "2026-11-05T18:45:17.000Z",
@@ -580,7 +928,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Chuck-Billy-Vid-Interview-2026-1024x576.jpg"
   },
   {
-   "id": "blabbermouth-41-1793904045000",
+   "id": "blabbermouth-70-1793904045000",
    "title": "RAINBOW's Iconic Live Album 'Finyl Vinyl' Remastered And Repackaged For 40th-Anniversary Edition",
    "url": "https://blabbermouth.net/news/rainbows-iconic-live-album-finyl-vinyl-remastered-and-repackaged-for-40th-anniversary-edition",
    "date": "2026-11-05T18:40:45.000Z",
@@ -592,7 +940,7 @@
    "image": "https://assets.blabbermouth.net/media/rainbowfinalvinylnov2026top_420x237.jpg"
   },
   {
-   "id": "blabbermouth-42-1793902840000",
+   "id": "blabbermouth-71-1793902840000",
    "title": "METALLICA Shares Pro-Shot Video Of 'For Whom The Bell Tolls' Performance From Sixth Show Of Las Vegas Sphere Residency",
    "url": "https://blabbermouth.net/news/metallica-shares-pro-shot-video-of-for-whom-the-bell-tolls-performance-from-sixth-show-of-las-vegas-sphere-residency",
    "date": "2026-11-05T18:20:40.000Z",
@@ -604,7 +952,7 @@
    "image": "https://assets.blabbermouth.net/media/jameshetfieldfadenov2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-43-1793902020000",
+   "id": "blabbermouth-72-1793902020000",
    "title": "DORO Once Again Rules Out Retirement: 'I Wanna Die On Stage'",
    "url": "https://blabbermouth.net/news/doro-once-again-rules-out-retirement-i-wanna-die-on-stage",
    "date": "2026-11-05T18:07:00.000Z",
@@ -616,7 +964,7 @@
    "image": "https://assets.blabbermouth.net/media/doropeschnov2026_420x237.jpg"
   },
   {
-   "id": "metalinjection-44-1793901993000",
+   "id": "metalinjection-73-1793901993000",
    "title": "Listen: Death Angel Release Snarky New Single, \"The Never Was\"",
    "url": "https://metalinjection.net/new-music/listen-death-angel-release-snarky-new-single-the-never-was",
    "date": "2026-11-05T18:06:33.000Z",
@@ -628,7 +976,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/11/Death-Angel-1024x576.jpg"
   },
   {
-   "id": "blabbermouth-45-1793900646000",
+   "id": "blabbermouth-74-1793900646000",
    "title": "BURN ETERNAL, Featuring KILLSWITCH ENGAGE Guitarist ADAM DUTKIEWICZ And Ex-Singer HOWARD JONES, Announces Debut Album",
    "url": "https://blabbermouth.net/news/burn-eternal-featuring-killswitch-engage-guitarist-adam-dutkiewicz-and-ex-singer-howard-jones-announces-debut-album",
    "date": "2026-11-05T17:44:06.000Z",
@@ -640,19 +988,7 @@
    "image": "https://assets.blabbermouth.net/media/burneternalnov2026_420x237.jpg"
   },
   {
-   "id": "blabbermouth-46-1793898400000",
-   "title": "COHEED AND CAMBRIA Announces 'S.S. Neverender: Beyond The Black Rainbow' 2027 Cruise Festival",
-   "url": "https://blabbermouth.net/news/coheed-and-cambria-announces-s-s-neverender-beyond-the-black-rainbow-2027-cruise-festival",
-   "date": "2026-11-05T17:06:40.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "festival",
-   "excerpt": "COHEED AND CAMBRIA has announced \"S.S. Neverender: Beyond The Black Rainbow\", the fourth iteration of the band's celebrated cruise festival. In partnership with Sixthman, the cruise is set to sail through the Caribbean…",
-   "image": "https://assets.blabbermouth.net/media/coheedandcambriaapril2026_420x237.jpg"
-  },
-  {
-   "id": "metalinjection-47-1793898026000",
+   "id": "metalinjection-75-1793898026000",
    "title": "Burn Eternal Announces Self-Titled Debut, Pre-Order Exclusive Vinyl Variant From Metal Injection",
    "url": "https://metalinjection.net/new-music/burn-eternal-announces-self-titled-debut-pre-order-exclusive-vinyl-variant-from-metal-injection",
    "date": "2026-11-05T17:00:26.000Z",
@@ -664,7 +1000,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/burn-eternal-burn-eternal-landscape-1280x720-1-1024x576.png"
   },
   {
-   "id": "angrymetalguy-48-1793897300000",
+   "id": "angrymetalguy-76-1793897300000",
    "title": "Konvent – Firesky Review",
    "url": "https://www.angrymetalguy.com/konvent-firesky-review/",
    "date": "2026-11-05T16:48:20.000Z",
@@ -676,7 +1012,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Konvent-Firesky-01-350x350.jpg"
   },
   {
-   "id": "metalinjection-49-1793895877000",
+   "id": "metalinjection-77-1793895877000",
    "title": "Watch: We Came As Romans Drops New Video For \"Dead Silent\" Featuring Make Them Suffer",
    "url": "https://metalinjection.net/new-music/watch-we-came-as-romans-drops-new-video-for-dead-silent-featuring-make-them-suffer",
    "date": "2026-11-05T16:24:37.000Z",
@@ -688,55 +1024,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/We-Came-As-Romans-2026-1024x576.png"
   },
   {
-   "id": "blabbermouth-50-1793895323000",
-   "title": "DEATH ANGEL Releases New Single 'The Never Was'",
-   "url": "https://blabbermouth.net/news/death-angel-releases-new-single-the-never-was",
-   "date": "2026-11-05T16:15:23.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "release",
-   "excerpt": "San Francisco Bay Area thrash metal veterans DEATH ANGEL have unleashed a brand new single, \"The Never Was\", accompanied by an official lyric visualizer. The track arrives as the band prepares for an extensive run of…",
-   "image": "https://assets.blabbermouth.net/media/deathangelnov2026_420x237.jpg"
-  },
-  {
-   "id": "blabbermouth-51-1793893748000",
-   "title": "BULLET FOR MY VALENTINE On 'Social Apocalypse' LP: 'With This Album, We've Tuned Down To The Lowest Tuning We've Ever Tuned To'",
-   "url": "https://blabbermouth.net/news/bullet-for-my-valentine-on-social-apocalypse-lp-with-this-album-weve-tuned-down-to-the-lowest-tuning-weve-ever-tuned-to",
-   "date": "2026-11-05T15:49:08.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "interview",
-   "excerpt": "In a new interview with Portugal's Look magazine, guitarist Michael \"Padge\" Paget and bassist/vocalist Jamie Mathias of Welsh metallers BULLET FOR MY VALENTINE spoke about their upcoming album, \"Social Apocalypse\",…",
-   "image": "https://assets.blabbermouth.net/media/bulletformyvalentinesept2026_420x237.jpg"
-  },
-  {
-   "id": "blabbermouth-52-1793892438000",
-   "title": "RUSH Announces Five-Date 'Elevate From The Norm' Residency At Sphere In Las Vegas",
-   "url": "https://blabbermouth.net/news/rush-announces-five-date-elevate-from-the-norm-residency-at-sphere-in-las-vegas",
-   "date": "2026-11-05T15:27:18.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "Rock And Roll Hall Of Fame inductees and RUSH co-founders Geddy Lee (on bass, keys, and vocals) and Alex Lifeson (on guitar and vocals) have announced RUSH's five-date residency at Sphere in Las Vegas. The band will…",
-   "image": "https://assets.blabbermouth.net/media/rushspherenov2026_420x237.jpg"
-  },
-  {
-   "id": "blabbermouth-53-1793891735000",
-   "title": "OZZFEST To Return In 2027 With Three Shows In U.K., U.S. And Mexico",
-   "url": "https://blabbermouth.net/news/ozzfest-to-return-in-2027-with-three-shows-in-u-k-u-s-and-mexico",
-   "date": "2026-11-05T15:15:35.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "festival",
-   "excerpt": "Ozzfest, the iconic global touring hard rock music festival launched more than 30 years ago by Ozzy and Sharon Osbourne, will return in 2027 with three historic stops: the U.K. (Milton Keynes), U.S. (San Bernardino,…",
-   "image": "https://assets.blabbermouth.net/media/ozzfest2027posternov2026_420x237.jpg"
-  },
-  {
-   "id": "metalinjection-54-1793891592000",
+   "id": "metalinjection-78-1793891592000",
    "title": "Ozzfest Announces 2027 Return to California",
    "url": "https://metalinjection.net/tour-dates/festivals/ozzfest-announces-2027-return-to-california",
    "date": "2026-11-05T15:13:12.000Z",
@@ -748,7 +1036,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled_Design_77-1024x576.png"
   },
   {
-   "id": "metalde-55-1793890745000",
+   "id": "metalde-79-1793890745000",
    "title": "[News] My Dark Fate – Premiere des Videos zu „Whiteout“",
    "url": "https://www.metal.de/news/my-dark-fate-premiere-des-videos-zu-whiteout-640577/",
    "date": "2026-11-05T14:59:05.000Z",
@@ -760,7 +1048,7 @@
    "image": "https://www.metal.de/images/2026/11/04/My-Dark-Fate-Bandpic-quadratisch-450x300.jpg"
   },
   {
-   "id": "invisibleoranges-56-1793890585000",
+   "id": "invisibleoranges-80-1793890585000",
    "title": "Dothe Contemplates the Knife’s Edge on “Seppuku” (Track Premiere)",
    "url": "https://www.invisibleoranges.com/dothe-contemplates-the-knifes-edge-on-seppuku-track-premiere",
    "date": "2026-11-05T14:56:25.000Z",
@@ -772,7 +1060,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/11/04/Dothe-Dothe.jpg"
   },
   {
-   "id": "metalinjection-57-1793890345000",
+   "id": "metalinjection-81-1793890345000",
    "title": "Rush Announces 2027 Sphere Las Vegas Residency",
    "url": "https://metalinjection.net/tour-dates/rush-announces-2027-sphere-las-vegas-residency",
    "date": "2026-11-05T14:52:25.000Z",
@@ -784,7 +1072,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/06/Rush-derek-tobias-mi-11-1024x576.jpg"
   },
   {
-   "id": "invisibleoranges-58-1793889493000",
+   "id": "invisibleoranges-82-1793889493000",
    "title": "Smoulder Enter “An Alien World” (Album Review)",
    "url": "https://www.invisibleoranges.com/smoulder-enter-an-alien-world-album-review",
    "date": "2026-11-05T14:38:13.000Z",
@@ -796,31 +1084,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/11/04/Smoulder-Witch-Wife-in-an-Alien-World.jpg"
   },
   {
-   "id": "blabbermouth-59-1793886495000",
-   "title": "CANDLEBOX's KEVIN MARTIN Has Changed His Mind About Making Another Full-Length Album: 'We're Doing It'",
-   "url": "https://blabbermouth.net/news/candleboxs-kevin-martin-has-changed-his-mind-about-making-another-full-length-album-were-doing-it",
-   "date": "2026-11-05T13:48:15.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "During an appearance on the October 28 episode of SiriusXM's \"Trunk Nation With Eddie Trunk\", CANDLEBOX frontman Kevin Martin once again explained why he decided to back out of his plans to retire from touring, despite…",
-   "image": "https://assets.blabbermouth.net/media/candleboxpresssept2026_420x237.jpg"
-  },
-  {
-   "id": "blabbermouth-60-1793885251000",
-   "title": "BON JOVI Adds New North American Stadium Shows To 2027 'Forever Tour'",
-   "url": "https://blabbermouth.net/news/bon-jovi-adds-new-north-american-stadium-shows-to-2027-forever-tour",
-   "date": "2026-11-05T13:27:31.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "tour",
-   "excerpt": "BON JOVI, the Grammy Award-winning, Rock And Roll Hall Of Fame-inducted band and one of history's most iconic live acts, today announced additional North American stadium dates for the band's highly anticipated 2027…",
-   "image": "https://assets.blabbermouth.net/media/bonjovibandnov2026_420x237.jpg"
-  },
-  {
-   "id": "metalde-61-1793883076000",
+   "id": "metalde-83-1793883076000",
    "title": "[News] IRON MAIDEN – veröffentlichen Graphic Novel zum 40. Jubiläum von „Somewhere In Time“",
    "url": "https://www.metal.de/news/iron-maiden-veroeffentlichen-graphic-novel-zum-40-jubilaeum-von-somewhere-in-time-640591/",
    "date": "2026-11-05T12:51:16.000Z",
@@ -832,19 +1096,7 @@
    "image": "https://www.metal.de/images/2026/10/12/3840x2160_IronMaidenBurningAmbition_US_ENG_PHOTOGRAPHY_STILL4_DIGITAL_EST-450x300.jpg"
   },
   {
-   "id": "blabbermouth-62-1793883032000",
-   "title": "Former MEGADETH Guitarist JEFF YOUNG Teams Up With Singer KAYLA DIXON And Director MICHAEL SARNA For 'Mirror In The Sky' Music Video",
-   "url": "https://blabbermouth.net/news/former-megadeth-guitarist-jeff-young-teams-up-with-singer-kayla-dixon-and-director-michael-sarna-for-mirror-in-the-sky-music-video",
-   "date": "2026-11-05T12:50:32.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "release",
-   "excerpt": "Former MEGADETH guitarist Jeff Young has teamed up with vocalist Kayla Dixon and director Michael Sarna for the new song and music video \"Mirror In The Sky\", featured in Sarna's supernatural horror film \"Return To…",
-   "image": "https://assets.blabbermouth.net/media/jeffyoungnov2026_420x237.jpg"
-  },
-  {
-   "id": "metalde-63-1793882671000",
+   "id": "metalde-84-1793882671000",
    "title": "[News] Jonne Järvelä – kündigt neues Soloalbum „Harjumaa“ an",
    "url": "https://www.metal.de/news/jonne-jaervelae-kuendigt-neues-soloalbum-harjumaa-an-640588/",
    "date": "2026-11-05T12:44:31.000Z",
@@ -856,7 +1108,7 @@
    "image": "https://www.metal.de/images/2026/11/05/Jonne_Bandfoto_2026-450x300.jpeg"
   },
   {
-   "id": "angrymetalguy-64-1793881799000",
+   "id": "angrymetalguy-85-1793881799000",
    "title": "Extol – Aura of Decay Review",
    "url": "https://www.angrymetalguy.com/extol-aura-of-decay-review/",
    "date": "2026-11-05T12:29:59.000Z",
@@ -868,19 +1120,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Extol-Album-Art-350x350.jpg"
   },
   {
-   "id": "blabbermouth-65-1793880997000",
-   "title": "KORPIKLAANI's JONNE JÄRVELÄ To Release 'Harjumaa' Solo Album In December",
-   "url": "https://blabbermouth.net/news/korpiklaanis-jonne-jarvela-to-release-harjumaa-solo-album-in-december",
-   "date": "2026-11-05T12:16:37.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "release",
-   "excerpt": "Jonne Järvelä, one of Finland's most internationally successful metal musicians, will release \"Harjumaa\", the new solo album by his namesake project, on December 18. Best known as the frontman of KORPIKLAANI and one of…",
-   "image": "https://assets.blabbermouth.net/media/jonnebandnov2026_420x237.jpg"
-  },
-  {
-   "id": "metalde-66-1793868352000",
+   "id": "metalde-86-1793868352000",
    "title": "[Interview] Somnent – Interview mit Giovanni A. Vigliotti zum neuen Album „Heirloom“",
    "url": "https://www.metal.de/interviews/somnent-interview-mit-giovanni-a-vigliotti-zum-neuen-album-heirloom-640581/",
    "date": "2026-11-05T08:45:52.000Z",
@@ -892,19 +1132,7 @@
    "image": "https://www.metal.de/images/2026/11/05/Somnent-Heirloom-Promo-1-450x300.jpg"
   },
   {
-   "id": "blabbermouth-67-1793825144000",
-   "title": "GWAR's MIKE 'BLÖTHAR THE BERSERKER' BISHOP: 'People Don't Really Realize How Talented DAVE BROCKIE Was'",
-   "url": "https://blabbermouth.net/news/gwars-mike-blothar-the-berserker-bishop-people-dont-really-realize-how-talented-dave-brockie-was",
-   "date": "2026-11-04T20:45:44.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "interview",
-   "excerpt": "In a new interview with the Go With Elmo Lovano podcast, GWAR's Mike \"Blöthar The Berserker\" Bishop, who previously played bass for GWAR during various stints in the 1980s and '90s, spoke about how he ended up rejoining…",
-   "image": "https://assets.blabbermouth.net/media/michaelbishopblotharnov2026_420x237.jpg"
-  },
-  {
-   "id": "angrymetalguy-68-1793824724000",
+   "id": "angrymetalguy-87-1793824724000",
    "title": "Insolitus – The Monumental Fall Review",
    "url": "https://www.angrymetalguy.com/insolitus-the-monumental-fall-review/",
    "date": "2026-11-04T20:38:44.000Z",
@@ -916,7 +1144,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/insolutis-the-monumental-fall-01-350x350.jpg"
   },
   {
-   "id": "metalinjection-69-1793823000000",
+   "id": "metalinjection-88-1793823000000",
    "title": "Ghost’s \"Mary On A Cross\" Hits 1 Billion Spotify Streams; Director Revisits Animated Video",
    "url": "https://metalinjection.net/news/ghosts-mary-on-a-cross-hits-1-billion-spotify-streams-director-revisits-animated-video",
    "date": "2026-11-04T20:10:00.000Z",
@@ -928,31 +1156,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/08/GHOST_02174-copy-1024x576.jpg"
   },
   {
-   "id": "blabbermouth-70-1793822651000",
-   "title": "Drummer CHRIS KONTOS Exits FORBIDDEN: 'I Have Decided That I Can No Longer Continue As A Part Of The Band'",
-   "url": "https://blabbermouth.net/news/drummer-chris-kontos-exits-forbidden-i-have-decided-that-i-can-no-longer-continue-as-a-part-of-the-band",
-   "date": "2026-11-04T20:04:11.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "release",
-   "excerpt": "Drummer Chris Kontos has officially exited San Francisco Bay Area thrashers FORBIDDEN after a three-year run with the band. Earlier today (Wednesday, November 4), Kontos released the following statement via social…",
-   "image": "https://assets.blabbermouth.net/media/forbiddenjuly2026_420x237.jpg"
-  },
-  {
-   "id": "blabbermouth-71-1793821485000",
-   "title": "SCORPIONS Biopic 'Wind Of Change' To Receive North American Theatrical Release In March 2027",
-   "url": "https://blabbermouth.net/news/scorpions-biopic-wind-of-change-to-receive-north-american-theatrical-release-in-march-2027",
-   "date": "2026-11-04T19:44:45.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "release",
-   "excerpt": "According to Deadline, the highly anticipated feature film \"Wind Of Change\", a music biopic chronicling the incredible journey of the legendary rock group SCORPIONS, will get a theatrical release via Roadside…",
-   "image": "https://assets.blabbermouth.net/media/scorpionswindofchangetrailoct2026_420x237.jpg"
-  },
-  {
-   "id": "metalinjection-72-1793820816000",
+   "id": "metalinjection-89-1793820816000",
    "title": "Watch: Hatebreed Drops \"Decisions Become Destinies\" Video Ahead of New Album Out Friday",
    "url": "https://metalinjection.net/new-music/watch-hatebreed-drops-decisions-become-destinies-video-ahead-of-new-album-out-friday",
    "date": "2026-11-04T19:33:36.000Z",
@@ -964,19 +1168,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Hatebreed-2026-1024x576.jpg"
   },
   {
-   "id": "blabbermouth-73-1793819783000",
-   "title": "'Bowl For Ronnie' 2026 Annual Celebrity Bowling Party Sells Out In Advance",
-   "url": "https://blabbermouth.net/news/bowl-for-ronnie-2026-annual-celebrity-bowling-party-sells-out-in-advance",
-   "date": "2026-11-04T19:16:23.000Z",
-   "source": "blabbermouth",
-   "sourceName": "Blabbermouth",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "The annual \"Bowl For Ronnie\" celebrity bowling party, benefiting the Ronnie James Dio Stand Up And Shout Cancer Fund, has once again sold out in advance. Hosted by television and radio personality Eddie Trunk, who is…",
-   "image": "https://assets.blabbermouth.net/media/bowlforronnie2026soldoutnov2026_420x237.jpg"
-  },
-  {
-   "id": "metalinjection-74-1793816713000",
+   "id": "metalinjection-90-1793816713000",
    "title": "Watch: Will Smith Moshes to Animals As Leaders at Daughter Willow’s Birthday Party",
    "url": "https://metalinjection.net/news/watch-will-smith-moshes-to-animals-as-leaders-at-daughter-willows-birthday-party",
    "date": "2026-11-04T18:25:13.000Z",
@@ -988,7 +1180,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-76-1024x576.png"
   },
   {
-   "id": "metalde-75-1793814452000",
+   "id": "metalde-91-1793814452000",
    "title": "[Konzertbericht] Praise The Plague Tour 2026",
    "url": "https://www.metal.de/konzertberichte/praise-the-plague-tour-2026-640340/",
    "date": "2026-11-04T17:47:32.000Z",
@@ -1000,7 +1192,7 @@
    "image": "https://www.metal.de/images/2026/11/03/w2304fjpeg-450x300.jpg"
   },
   {
-   "id": "metalinjection-76-1793813198000",
+   "id": "metalinjection-92-1793813198000",
    "title": "A Post-Hardcore Band Currently Has the Third Biggest Song on TikTok",
    "url": "https://metalinjection.net/news/a-post-hardcore-band-currently-has-the-third-biggest-song-on-tiktok",
    "date": "2026-11-04T17:26:38.000Z",
@@ -1012,7 +1204,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-75-1024x576.png"
   },
   {
-   "id": "angrymetalguy-77-1793809521000",
+   "id": "angrymetalguy-93-1793809521000",
    "title": "Prong – Prong Review",
    "url": "https://www.angrymetalguy.com/prong-prong-review/",
    "date": "2026-11-04T16:25:21.000Z",
@@ -1024,7 +1216,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/11/Prong_Prong-01-350x350.jpg"
   },
   {
-   "id": "metalde-78-1793808396000",
+   "id": "metalde-94-1793808396000",
    "title": "[Galerie] Gutrectomy – Death Dominion EU Tour 2026 in München",
    "url": "https://www.metal.de/bilder/gutrectomy-death-dominion-eu-tour-2026-in-muenchen-640480/",
    "date": "2026-11-04T16:06:36.000Z",
@@ -1036,7 +1228,7 @@
    "image": "https://www.metal.de/images/2026/11/04/gutrectomy-2026-muenchen-backstage-016-450x300.jpg"
   },
   {
-   "id": "metalde-79-1793808375000",
+   "id": "metalde-95-1793808375000",
    "title": "[Galerie] Carnifex – Death Dominion EU Tour 2026 in München",
    "url": "https://www.metal.de/bilder/carnifex-death-dominion-eu-tour-2026-in-muenchen-640552/",
    "date": "2026-11-04T16:06:15.000Z",
@@ -1048,7 +1240,7 @@
    "image": "https://www.metal.de/images/2026/11/04/carnifex-2026-muenchen-backstage-015-450x300.jpg"
   },
   {
-   "id": "metalde-80-1793808360000",
+   "id": "metalde-96-1793808360000",
    "title": "[Galerie] Suffocation – Death Dominion EU Tour 2026 in München",
    "url": "https://www.metal.de/bilder/suffocation-death-dominion-eu-tour-2026-in-muenchen-640503/",
    "date": "2026-11-04T16:06:00.000Z",
@@ -1060,7 +1252,7 @@
    "image": "https://www.metal.de/images/2026/11/04/suffocation-2026-muenchen-backstage-008-450x300.jpg"
   },
   {
-   "id": "metalde-81-1793808339000",
+   "id": "metalde-97-1793808339000",
    "title": "[Galerie] Despised Icon – Death Dominion EU Tour 2026 in München",
    "url": "https://www.metal.de/bilder/despised-icon-death-dominion-eu-tour-2026-in-muenchen-640523/",
    "date": "2026-11-04T16:05:39.000Z",
@@ -1072,7 +1264,7 @@
    "image": "https://www.metal.de/images/2026/11/04/despised-icon-2026-muenchen-backstage-009-450x300.jpg"
   },
   {
-   "id": "metalinjection-82-1793807860000",
+   "id": "metalinjection-98-1793807860000",
    "title": "Imperial Triumphant Signs to Metal Blade, New Music Coming Soon",
    "url": "https://metalinjection.net/news/imperial-triumphant-signs-to-metal-blade-new-album-coming-in-2027",
    "date": "2026-11-04T15:57:40.000Z",
@@ -1084,7 +1276,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Imperial-Triumphant-2026-1024x576.png"
   },
   {
-   "id": "metalde-83-1793807615000",
+   "id": "metalde-99-1793807615000",
    "title": "[Konzertbericht] Gloryhammer – Wrath Of Kor-Viliath European Tour",
    "url": "https://www.metal.de/konzertberichte/gloryhammer-wrath-of-kor-viliath-european-tour-640479/",
    "date": "2026-11-04T15:53:35.000Z",
@@ -1096,7 +1288,7 @@
    "image": "https://www.metal.de/images/2026/10/24/gloryhammer-2026-stuttgart-lka-longhorn-020-450x300.jpg"
   },
   {
-   "id": "metalde-84-1793807236000",
+   "id": "metalde-100-1793807236000",
    "title": "[Review] Konvent – Firesky",
    "url": "https://www.metal.de/reviews/konvent-firesky-639517/",
    "date": "2026-11-04T15:47:16.000Z",
@@ -1108,7 +1300,7 @@
    "image": "https://www.metal.de/images/2026/09/13/Konvent-Firesky-Cover-450x300.jpg"
   },
   {
-   "id": "metalinjection-85-1793806592000",
+   "id": "metalinjection-101-1793806592000",
    "title": "Listen: Cult of Luna Recruit Gojira’s Joe Duplantier for New Single “Sadness Will Reign”",
    "url": "https://metalinjection.net/new-music/listen-cult-of-luna-recruit-gojiras-joe-duplantier-for-new-single-sadness-will-reign",
    "date": "2026-11-04T15:36:32.000Z",
@@ -1120,7 +1312,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Cult-of-Luna-Credit-Chad-Michael-Ward-hires-scaled-1-1024x576.jpg"
   },
   {
-   "id": "invisibleoranges-86-1793801788000",
+   "id": "invisibleoranges-102-1793801788000",
    "title": "Great Lakes Dungeon Siege 2026 Recap",
    "url": "https://www.invisibleoranges.com/great-lakes-dungeon-siege-2026-recap",
    "date": "2026-11-04T14:16:28.000Z",
@@ -1132,19 +1324,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/11/03/IMG_0102.jpg"
   },
   {
-   "id": "metalde-87-1793796479000",
-   "title": "[Special] Der Metalkeller – 2026 oder auch Season 5",
-   "url": "https://www.metal.de/specials/der-metalkeller-2026-oder-auch-season-5-607086/",
-   "date": "2026-11-04T12:47:59.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "news",
-   "excerpt": "Lettischer Knast, Gitarren auf ungewöhnliche Weise finanziert und eine Snare Drum von Vinnie Paul, die für Ärger sorgt! Mit Manuel und Johannes von FUTURE PALACE wird’s im METALKELLER wieder herrlich kurios. Jetzt…",
-   "image": "https://www.metal.de/images/2026/11/04/Unbenannt-450x300.jpg"
-  },
-  {
-   "id": "angrymetalguy-88-1793794689000",
+   "id": "angrymetalguy-103-1793794689000",
    "title": "Mental Cruelty – Echoes of a Forlorn Land Review",
    "url": "https://www.angrymetalguy.com/mental-cruelty-echoes-of-a-forlorn-land-review/",
    "date": "2026-11-04T12:18:09.000Z",
@@ -1156,43 +1336,7 @@
    "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/MentalCruelty_EoaFL_01-500x500.jpg"
   },
   {
-   "id": "metalde-89-1793787959000",
-   "title": "[Review] Eternity’s End – Titanblood",
-   "url": "https://www.metal.de/reviews/eternitys-end-titanblood-640472/",
-   "date": "2026-11-04T10:25:59.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "review",
-   "excerpt": "Fünf Jahre nach „Embers Of War“ lassen ETERNITY’S END mit „Titanblood“ wieder die musikalischen Muskeln spielen. Dass es bis zum vierten Album der (überwiegend) deutschen Progressive-Metal-Supergroup, die eigentlich nur…",
-   "image": "https://www.metal.de/images/2026/11/04/849918-450x300.jpg"
-  },
-  {
-   "id": "metalde-90-1793767885000",
-   "title": "[Interview] Crimson Coven – Interview zu „I – The Forge“",
-   "url": "https://www.metal.de/interviews/crimson-coven-interview-zu-i-the-forge-640329/",
-   "date": "2026-11-04T04:51:25.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "interview",
-   "excerpt": "CRIMSON COVEN überzeugen mit ihrem Debütalbum \"I – The Forge\", das eine starke Mischung aus Epic Doom mit traditionellem Heavy/True Metal bietet. Die Band stammt aus Spanien und ihre Mitglieder halten ihre Identität…",
-   "image": "https://www.metal.de/images/2026/11/03/crimsoncoven-1-450x300.jpg"
-  },
-  {
-   "id": "metalde-91-1793750274000",
-   "title": "[Review] Angel Witch – Angel Witch",
-   "url": "https://www.metal.de/reviews/angel-witch-angel-witch-640062/",
-   "date": "2026-11-03T23:57:54.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "review",
-   "excerpt": "Wenn es einen Song gibt, der die NWoBHM repräsentiert, werden sich viele Fans vermutlich auf „Angel Witch“ von ANGEL WITCH einigen können. Warum auch immer – metal.de hat es bisher nicht hinbekommen diesen Meilenstein…",
-   "image": "https://www.metal.de/images/2026/10/29/Angel-Witch-Angel-Witch-Cover-Artwork-450x300.jpg"
-  },
-  {
-   "id": "metalinjection-92-1793743327000",
+   "id": "metalinjection-104-1793743327000",
    "title": "Mastodon Moves to Dismiss Key Claims in Brent Hinds Estate Lawsuit",
    "url": "https://metalinjection.net/news/mastodon-moves-to-dismiss-key-claims-in-brent-hinds-estate-lawsuit",
    "date": "2026-11-03T22:02:07.000Z",
@@ -1204,7 +1348,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2021/11/Mastodon-40-1024x576.jpg"
   },
   {
-   "id": "metalinjection-93-1793740318000",
+   "id": "metalinjection-105-1793740318000",
    "title": "Rock For People Adds Evanescence, Parkway Drive, The Devil Wears Prada and More to Lineup",
    "url": "https://metalinjection.net/tour-dates/festivals/rock-for-people-adds-evanescence-parkway-drive-the-devil-wears-prada-and-more-to-lineup",
    "date": "2026-11-03T21:11:58.000Z",
@@ -1216,139 +1360,7 @@
    "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/WOHNOUT-17-1-1024x576.jpg"
   },
   {
-   "id": "metalinjection-94-1793740194000",
-   "title": "Photos: Knocked Loose and Denzel Curry Turn Petco Park Into a Halloween Eve Riot",
-   "url": "https://metalinjection.net/photos/photos-knocked-loose-and-denzel-curry-turn-petco-park-into-a-halloween-eve-riot",
-   "date": "2026-11-03T21:09:54.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "The new hardcore hip-hop duo that people can't get enough of. The post Photos: Knocked Loose and Denzel Curry Turn Petco Park Into a Halloween Eve Riot appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Knocked-Loose-ShadowsandStrobes-12-1024x576.webp"
-  },
-  {
-   "id": "metalinjection-95-1793739596000",
-   "title": "Alexisonfire and Poison the Well Announce 2027 Co-Headlining Tour",
-   "url": "https://metalinjection.net/tour-dates/alexisonfire-and-poison-the-well-announce-2027-co-headlining-tour",
-   "date": "2026-11-03T20:59:56.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "tour",
-   "excerpt": "In case your wallet wasn't already weeping for mercy. The post Alexisonfire and Poison the Well Announce 2027 Co-Headlining Tour appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/MIMS-3-1024x576.png"
-  },
-  {
-   "id": "angrymetalguy-96-1793737948000",
-   "title": "Wyrm Chasm – Wyrm Chasm Review",
-   "url": "https://www.angrymetalguy.com/wyrm-chasm-wyrm-chasm-review/",
-   "date": "2026-11-03T20:32:28.000Z",
-   "source": "angrymetalguy",
-   "sourceName": "Angry Metal Guy",
-   "region": "americas",
-   "category": "review",
-   "excerpt": "Wyrm Chasm . Two words and I’m in. 1 It’s a name so good, they had to use it twice. Wyrm Chasm is the eponymous debut of Dallas, Texas-based black metallers Wyrm Chasm , formed with the intent of “forg[ing] a…",
-   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/Wyrm-Chasm-Wyrm-Chasm-01-350x350.jpg"
-  },
-  {
-   "id": "metalde-97-1793737083000",
-   "title": "[Galerie] Wolves In The Throne Room – Kinghts Of Tiamat European Tour Fall 2026 in Stuttgart",
-   "url": "https://www.metal.de/bilder/wolves-in-the-throne-room-kinghts-of-tiamat-european-tour-fall-2026-in-stuttgart-640415/",
-   "date": "2026-11-03T20:18:03.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "tour",
-   "excerpt": "Der Beitrag Wolves In The Throne Room – Kinghts Of Tiamat European Tour Fall 2026 in Stuttgart erschien zuerst auf metal.de .",
-   "image": "https://www.metal.de/images/2026/11/03/wolves-in-the-throne-room-2026-stuttgart-im-wizemann-STL_6668-450x300.jpg"
-  },
-  {
-   "id": "metalde-98-1793736960000",
-   "title": "[Galerie] Worm – Kinghts Of Tiamat European Tour Fall 2026 in Stuttgart",
-   "url": "https://www.metal.de/bilder/worm-kinghts-of-tiamat-european-tour-fall-2026-in-stuttgart-640389/",
-   "date": "2026-11-03T20:16:00.000Z",
-   "source": "metalde",
-   "sourceName": "Metal.de",
-   "region": "europe",
-   "category": "tour",
-   "excerpt": "Der Beitrag Worm – Kinghts Of Tiamat European Tour Fall 2026 in Stuttgart erschien zuerst auf metal.de .",
-   "image": "https://www.metal.de/images/2026/11/03/worm-2026-stuttgart-im-wizemann-STE_0894-450x300.jpg"
-  },
-  {
-   "id": "metalinjection-99-1793736041000",
-   "title": "Ozzfest Launches Countdown Timer",
-   "url": "https://metalinjection.net/news/ozzfest-launches-countdown-timer",
-   "date": "2026-11-03T20:00:41.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "festival",
-   "excerpt": "This Thursday... something is happening. The post Ozzfest Launches Countdown Timer appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-11.29.00-AM-1024x548.png"
-  },
-  {
-   "id": "metalinjection-100-1793734024000",
-   "title": "Spike Lee Claims Credit For Red Yankees Fitted, “Limp Bizkit… Didn’t Have It Before Me!”",
-   "url": "https://metalinjection.net/news/spike-lee-claims-credit-for-red-yankees-fitted-limp-bizkit-didnt-have-it-before-me",
-   "date": "2026-11-03T19:27:04.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "\"The red Yankee hat started everything!\" The post Spike Lee Claims Credit For Red Yankees Fitted, “Limp Bizkit… Didn’t Have It Before Me!” appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-73-1024x576.png"
-  },
-  {
-   "id": "metalinjection-101-1793732051000",
-   "title": "Kenny Hickey of Silvertomb on The Meaning of Heavy, Comparisons to Type O & More",
-   "url": "https://metalinjection.net/video/kenny-hickey-of-silvertomb-on-the-meaning-of-heavy-comparisons-to-type-o-more",
-   "date": "2026-11-03T18:54:11.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "'The Interpretation of Nightmares' out November 13. The post Kenny Hickey of Silvertomb on The Meaning of Heavy, Comparisons to Type O & More appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/maxresdefault_22-1024x576.jpg"
-  },
-  {
-   "id": "metalinjection-102-1793730458000",
-   "title": "Currents Announce 2027 Headlining Tour With Vanna, Vana and More",
-   "url": "https://metalinjection.net/tour-dates/currents-announce-2027-headlining-tour-with-vanna-vana-and-more",
-   "date": "2026-11-03T18:27:38.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "tour",
-   "excerpt": "Yes. Both Vanna and Vana are opening this run. The post Currents Announce 2027 Headlining Tour With Vanna, Vana and More appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Currents-2026-1024x576.jpg"
-  },
-  {
-   "id": "metalinjection-103-1793728699000",
-   "title": "Brad Pitt’s Cliff Booth Gets a Trent Reznor and Atticus Ross Soundtrack",
-   "url": "https://metalinjection.net/news/brad-pitts-cliff-booth-gets-a-trent-reznor-and-atticus-ross-soundtrack",
-   "date": "2026-11-03T17:58:19.000Z",
-   "source": "metalinjection",
-   "sourceName": "Metal Injection",
-   "region": "americas",
-   "category": "news",
-   "excerpt": "Fincher X Tarantino X Reznor and Ross. The post Brad Pitt’s Cliff Booth Gets a Trent Reznor and Atticus Ross Soundtrack appeared first on Metal Injection .",
-   "image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/11/Untitled-Design-72-1024x576.png"
-  },
-  {
-   "id": "angrymetalguy-104-1793724227000",
-   "title": "Rattlesnakes – Shadows in the Night Review",
-   "url": "https://www.angrymetalguy.com/rattlesnakes-shadows-in-the-night-review/",
-   "date": "2026-11-03T16:43:47.000Z",
-   "source": "angrymetalguy",
-   "sourceName": "Angry Metal Guy",
-   "region": "americas",
-   "category": "review",
-   "excerpt": "To find success as a new heavy metal act, a band must often walk the tightrope between evoking the olde while supplying enough originality to stand out. Slithering out of Nottingham, England, Rattlesnakes arrives ready…",
-   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/Rattlesnakes-Shadows-in-the-Night-01-350x350.jpg"
-  },
-  {
-   "id": "invisibleoranges-105-1793715918000",
+   "id": "invisibleoranges-106-1793715918000",
    "title": "Upcoming Metal Releases: 11/1/26 – 11/7/26",
    "url": "https://www.invisibleoranges.com/upcoming-metal-releases-11-1-26-11-7-26",
    "date": "2026-11-03T14:25:18.000Z",
@@ -1360,31 +1372,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2025/04/25/UMR.png"
   },
   {
-   "id": "angrymetalguy-106-1793707275000",
-   "title": "Pantheïst – Uncanny Times Review",
-   "url": "https://www.angrymetalguy.com/pantheist-uncanny-times-review/",
-   "date": "2026-11-03T12:01:15.000Z",
-   "source": "angrymetalguy",
-   "sourceName": "Angry Metal Guy",
-   "region": "americas",
-   "category": "review",
-   "excerpt": "Uncanny times, indeed. First, Pope Leo XIV underwent surgery to remove a cancerous section of his lung. Only a few days later, a priest in Ecuador met a less fortunate fate when a gigantic crucifix fell and crushed him…",
-   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/Pantheist-Uncanny-Times-01-350x350.jpg"
-  },
-  {
-   "id": "angrymetalguy-107-1793651875000",
-   "title": "Bokkerijders – Crush Kill Destroy Review",
-   "url": "https://www.angrymetalguy.com/bokkerijders-crush-kill-destroy-review/",
-   "date": "2026-11-02T20:37:55.000Z",
-   "source": "angrymetalguy",
-   "sourceName": "Angry Metal Guy",
-   "region": "americas",
-   "category": "review",
-   "excerpt": "Something about the sulfurous pangs of black metal, entwined with thrash’s eminent riffcraft, sets my metal heart aflame. The subgenres roam between the cold, calculating ire of Immortal or late-80s Metallica and the…",
-   "image": "https://www.angrymetalguy.com/wp-content/uploads/2026/10/Bokkerijders-Crush-Kill-Destroy-01-350x350.jpg"
-  },
-  {
-   "id": "invisibleoranges-108-1793218942000",
+   "id": "invisibleoranges-107-1793218942000",
    "title": "Upcoming Metal Releases: 10/25/26 – 10/31/26",
    "url": "https://www.invisibleoranges.com/upcoming-metal-releases-10-25-26-10-31-26",
    "date": "2026-10-28T20:22:22.000Z",
@@ -1396,7 +1384,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2025/04/25/UMR.png"
   },
   {
-   "id": "metalsucks-109-1793196000000",
+   "id": "metalsucks-108-1793196000000",
    "title": "Do I Suck For…Lying To My Dad About Liking Pantera For The Sake Of Bonding?",
    "url": "https://www.metalsucks.net/2026/10/28/do-i-suck-for-lying-to-my-dad-about-liking-pantera-for-the-sake-of-bonding/",
    "date": "2026-10-28T14:00:00.000Z",
@@ -1408,7 +1396,7 @@
    "image": "https://cdn-p.smehost.net/sites/2ed48fdcc3904f548299cd86d78e9885/wp-content/uploads/2026/10/photo-1604208485423-f19bc2aaae2d-520x325.jpeg"
   },
   {
-   "id": "invisibleoranges-110-1793193742000",
+   "id": "invisibleoranges-109-1793193742000",
    "title": "Vanessa Funke on Cultivating Her “Aura” (Interview)",
    "url": "https://www.invisibleoranges.com/vanessa-funke-on-cultivating-her-aura-interview",
    "date": "2026-10-28T13:22:22.000Z",
@@ -1420,7 +1408,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/10/28/Vanessa-Funke-Aura.jpg"
   },
   {
-   "id": "metalsucks-111-1793109600000",
+   "id": "metalsucks-110-1793109600000",
    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: TONY IOMMI – FROM THE DARK",
    "url": "https://www.metalsucks.net/2026/10/27/disgruntled-dad-reviews-with-dave-mustcomplain-tony-iommi-from-the-dark/",
    "date": "2026-10-27T14:00:00.000Z",
@@ -1432,7 +1420,7 @@
    "image": "https://cdn-p.smehost.net/sites/2ed48fdcc3904f548299cd86d78e9885/wp-content/uploads/2026/10/DDR-Template-NEW-1-520x325.jpg"
   },
   {
-   "id": "invisibleoranges-112-1793022120000",
+   "id": "invisibleoranges-111-1793022120000",
    "title": "Entheos Rebuild Themselves and Find They’re Anything but “Empty on the Inside” (Interview + Review)",
    "url": "https://www.invisibleoranges.com/entheos-rebuild-themselves-and-find-theyre-anything-but-empty-on-the-inside-interview-review",
    "date": "2026-10-26T13:42:00.000Z",
@@ -1444,7 +1432,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/10/25/Entheos-Empty-on-the-Inside.jpg"
   },
   {
-   "id": "invisibleoranges-113-1792767684000",
+   "id": "invisibleoranges-112-1792767684000",
    "title": "The 9 Songs That Made Us",
    "url": "https://www.invisibleoranges.com/the-9-songs-that-made-us",
    "date": "2026-10-23T15:01:24.000Z",
@@ -1456,7 +1444,7 @@
    "image": "https://media.invisibleoranges.com/qcerjudxrp/uploads/2026/10/23/Amorphis-Elegy.jpg"
   },
   {
-   "id": "metalsucks-114-1792591200000",
+   "id": "metalsucks-113-1792591200000",
    "title": "Do I Suck For…Blasting Vulvodynia To Make Customers Leave My Store?",
    "url": "https://www.metalsucks.net/2026/10/21/do-i-suck-for-blasting-vulvodynia-to-make-customers-leave-my-store/",
    "date": "2026-10-21T14:00:00.000Z",
@@ -1468,7 +1456,7 @@
    "image": "https://cdn-p.smehost.net/sites/2ed48fdcc3904f548299cd86d78e9885/wp-content/uploads/2026/10/photo-1498811008858-d95a730b2ffc-520x325.jpeg"
   },
   {
-   "id": "metalsucks-115-1792504800000",
+   "id": "metalsucks-114-1792504800000",
    "title": "Disgruntled Dad Reviews with DAVE MUSTCOMPLAIN: INSOMNIUM – ‘Netherworlds’",
    "url": "https://www.metalsucks.net/2026/10/20/disgruntled-dad-reviews-with-dave-mustcomplain-insomnium-netherworlds/",
    "date": "2026-10-20T14:00:00.000Z",
